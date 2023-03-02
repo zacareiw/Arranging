@@ -1,3 +1,4 @@
+package Experimenting;
 
 import org.jfugue.theory.Note;
 import org.jfugue.pattern.*;
